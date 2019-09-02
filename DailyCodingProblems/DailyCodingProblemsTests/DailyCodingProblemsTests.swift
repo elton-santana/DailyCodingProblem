@@ -18,10 +18,17 @@ class DailyCodingProblemsTests: XCTestCase {
         // Put teardown code here. This method is called after the invocation of each test method in the class.
     }
     
+    //Problem 1
     func testAddTo() {
         XCTAssertEqual(addTo([10, 15, 3, 7],17), true)
         
         XCTAssertEqual(addTo([10, 15, 3, 7],9), false)
+    }
+    
+    //Problem 2
+    func testProductExceptCurrent() {
+        XCTAssertEqual(productExceptCurrent([1, 2, 3, 4, 5]), [120, 60, 40, 30, 24])
+        XCTAssertEqual(productExceptCurrent([3, 2, 1]), [2, 3, 6])
     }
 
     func testPerformanceExample() {

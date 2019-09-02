@@ -13,6 +13,8 @@
 		9559C342231D8E3E000E8F57 /* AddUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559C341231D8E3E000E8F57 /* AddUp.swift */; };
 		9559C344231D8FBC000E8F57 /* DailyCodingProblemsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559C339231D85C1000E8F57 /* DailyCodingProblemsTests.swift */; };
 		9559C345231D8FC9000E8F57 /* AddUp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559C341231D8E3E000E8F57 /* AddUp.swift */; };
+		9559C347231D91F3000E8F57 /* ProductExceptCurrent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559C346231D91F3000E8F57 /* ProductExceptCurrent.swift */; };
+		9559C348231D9241000E8F57 /* ProductExceptCurrent.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9559C346231D91F3000E8F57 /* ProductExceptCurrent.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -34,6 +36,7 @@
 		9559C339231D85C1000E8F57 /* DailyCodingProblemsTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DailyCodingProblemsTests.swift; sourceTree = "<group>"; };
 		9559C33B231D85C1000E8F57 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9559C341231D8E3E000E8F57 /* AddUp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddUp.swift; sourceTree = "<group>"; };
+		9559C346231D91F3000E8F57 /* ProductExceptCurrent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductExceptCurrent.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +80,7 @@
 			children = (
 				9559C32C231D8453000E8F57 /* main.swift */,
 				9559C341231D8E3E000E8F57 /* AddUp.swift */,
+				9559C346231D91F3000E8F57 /* ProductExceptCurrent.swift */,
 			);
 			path = DailyCodingProblems;
 			sourceTree = "<group>";
@@ -180,6 +184,7 @@
 			files = (
 				9559C344231D8FBC000E8F57 /* DailyCodingProblemsTests.swift in Sources */,
 				9559C342231D8E3E000E8F57 /* AddUp.swift in Sources */,
+				9559C347231D91F3000E8F57 /* ProductExceptCurrent.swift in Sources */,
 				9559C32D231D8453000E8F57 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -190,6 +195,7 @@
 			files = (
 				9559C340231D89DD000E8F57 /* main.swift in Sources */,
 				9559C345231D8FC9000E8F57 /* AddUp.swift in Sources */,
+				9559C348231D9241000E8F57 /* ProductExceptCurrent.swift in Sources */,
 				9559C33A231D85C1000E8F57 /* DailyCodingProblemsTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
