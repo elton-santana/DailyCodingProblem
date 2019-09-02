@@ -8,6 +8,7 @@
 
 import Foundation
 
+
 /*
 Good morning! Here's your coding interview problem for today.
 
@@ -19,6 +20,7 @@ For example, if our input was [1, 2, 3, 4, 5], the expected output would be [120
 
 Follow-up: what if you can't use division?
  */
+
 
 func productExceptCurrent(_ a: [Int]) -> [Int] {
     
